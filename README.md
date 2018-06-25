@@ -2,8 +2,8 @@
 ## Reciclando código
 
 ### Integrantes
-*Duvan Ruíz Silva.
-*Omar Andrés Mahecha Camargo.
-*Mónica Lorena Bohórquez Cuevas.
+	*Duvan Ruíz Silva.
+	*Omar Andrés Mahecha Camargo.
+	*Mónica Lorena Bohórquez Cuevas.
 
 ### Descripción del proyecto
